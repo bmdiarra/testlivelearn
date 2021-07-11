@@ -1,0 +1,22 @@
+.container_fluid{
+    
+    margin: 5px;
+}
+
+.list{
+    background-color: darkgray;
+    width: 20%;
+    margin: 10px;
+}
+
+.card_for_css{
+    margin-top: 10px ;
+}
+
+.big_container{
+    background-color: cornsilk;
+}
+
+.link{
+    display: inline;
+}
